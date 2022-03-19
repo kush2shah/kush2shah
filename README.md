@@ -8,7 +8,5 @@ I know how to code in
 
 I also work as a climbing coach for the nation's 9th best climbing team, and will be working at Cisco Systems as a marketing intern this summer.
 
-<!---
-kush2shah/kush2shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://linkedin.com/in/kushsha" alt="LinkedIn"><img src="icons/linkedin.png" width=28px></a>
+<a href="https://twitter.com/kushs_" alt="Twitter"><img src="icons/twitter.png" width=28px></a>

@@ -5,6 +5,9 @@ I'm a Sophomore at The University of North Carolina at Chapel Hill studying Comp
 > - Java
 > - Python
 > - C
+> And I'm learning how to code in
+> - Swift
+> - SwiftUI
 
 I'd love to chat! Please reach out to me if there's anything you'd like to talk about.
 

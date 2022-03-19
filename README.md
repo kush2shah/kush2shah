@@ -9,6 +9,7 @@ I'm a Sophomore at The University of North Carolina at Chapel Hill studying Comp
 I'd love to chat! Please reach out to me if there's anything you'd like to talk about.
 
 > Email: kush@unc.edu
+> 
 > Phone: (919) 641-5659
 
 <a href="https://linkedin.com/in/kushsha" alt="LinkedIn"><img src="icons/linkedin.png" width=28px></a>

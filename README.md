@@ -1,5 +1,5 @@
-### Hi! 
-I'm a Sophomore at The University of North Carolina at Chapel Hill studying Computer Science and Business Administration.
+### Hi! I'm Kush.
+> I'm a Sophomore at The University of North Carolina at Chapel Hill studying Computer Science and Business Administration.
 
 I know how to code in
 - Java

@@ -1,5 +1,5 @@
 ### Hey y'all! I'm Kush.
-I'm a Sophomore at The University of North Carolina at Chapel Hill studying Computer Science and Business Administration.
+I'm a Junior at The University of North Carolina at Chapel Hill studying Computer Science and Business Administration.
 
 > I know how to code in
 > - Java

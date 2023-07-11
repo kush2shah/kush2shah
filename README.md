@@ -5,6 +5,14 @@ I'm a Junior at The University of North Carolina at Chapel Hill studying Compute
 > - Java
 > - Python
 > - C
+> - TypeScript
+> - HTML
+> - CSS
+>
+> I'm familiar with these frameworks
+> - ReactJS
+> - REST API
+> - AngularJS
 > 
 > And I'm learning how to code in
 > - Swift

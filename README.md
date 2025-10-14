@@ -20,7 +20,7 @@ I'm an alumni from UNC Chapel Hill working as a Product Manager at Bandwidth.
 
 I'd love to chat! Please reach out to me if there's anything you'd like to talk about.
 
-> Email: kush@unc.edu
+> Email: hello@kushs.org
 > 
 > Phone: (919) 641-5659
 >

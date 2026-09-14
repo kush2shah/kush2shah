@@ -1,4 +1,4 @@
-Making AI things [@Bandwidth](https://github.com/Bandwidth)
+Making AI things [@LangChain](https://github.com/langchain-ai)
 
 I also like to make apps for iOS. Swift is pretty and I lean towards native design languages. Let's build something together!
 
